@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ali Kutay Kılınç_b201210071_1.Proje_Yaz Dönemi/1.0.0": {
+        "runtime": {
+          "Ali Kutay Kılınç_b201210071_1.Proje_Yaz Dönemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ali Kutay Kılınç_b201210071_1.Proje_Yaz Dönemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

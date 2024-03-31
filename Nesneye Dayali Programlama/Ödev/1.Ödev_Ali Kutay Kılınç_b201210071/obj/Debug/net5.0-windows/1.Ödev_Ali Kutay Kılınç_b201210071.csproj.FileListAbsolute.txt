@@ -1,0 +1,18 @@
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.exe
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.deps.json
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.runtimeconfig.json
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.runtimeconfig.dev.json
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.dll
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\ref\1.Ödev_Ali Kutay Kılınç_b201210071.dll
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\bin\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.pdb
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.csprojAssemblyReference.cache
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\_1.Ödev_Ali_Kutay_Kılınç_b201210071.Form1.resources
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.csproj.GenerateResource.cache
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.AssemblyInfoInputs.cache
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.AssemblyInfo.cs
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.csproj.CoreCompileInputs.cache
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.dll
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\ref\1.Ödev_Ali Kutay Kılınç_b201210071.dll
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.pdb
+C:\Users\HayriyeNur\Desktop\Ödev\1.Ödev_Ali Kutay Kılınç_b201210071\obj\Debug\net5.0-windows\1.Ödev_Ali Kutay Kılınç_b201210071.genruntimeconfig.cache
