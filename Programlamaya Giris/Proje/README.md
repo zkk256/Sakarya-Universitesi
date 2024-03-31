@@ -1,0 +1,1 @@
+Projede bir kütüphanede kitap ödünç verme sisteminin takibi için c++ dosyalama ifadeleri kullanılarak gerçekleştirilecektir.
